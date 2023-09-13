@@ -23,7 +23,9 @@ to provide timely and accurate information to authorities and the public. This r
 To contribute or run this project locally, you will need the following prerequisites:
 
 - Python 3.x
-- Data sources 
+- Data sources. Load data from this [link](https://drive.google.com/file/d/1TKVEprgfgfOv6tWY5DzYvEbVJZTf7J9v/view?usp=sharing). Unzip it to the root of the project.
+- Checkpoint. Load checkpoint of the BERT model from [here](https://drive.google.com/file/d/1Jfr_qlGQYKGgDKZ6Qd4eWtKEnRjk6nEn/view?usp=sharing). Unzip it to the root of the project.
+- Checkpoints of the models. Load checkpoint of the models from [here](https://drive.google.com/file/d/1rQx2ucz05kkbTgxBY0DJGSN9OfzHw4qZ/view?usp=sharing).
 - Additional dependencies as specified in the project's documentation
 
 ## 3. Installation <a name="installation"></a>
